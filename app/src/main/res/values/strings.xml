@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AppsLoginFolha</string>
+    <string name="sublinhado">Create new.<u></u></string>
 </resources>
